@@ -1,4 +1,5 @@
-/// A system for writing cross-AVR routines of code for distributed processing and fun!
+/// A system for writing cross-AVR routines of code for distributed processing (and fun!)
+/// (TODO expand description)
 
 macro_rules! __make_caller {
 
