@@ -1,0 +1,6 @@
+[package]
+name = "dp4a"
+version = "0.1.0"
+authors = ["restioson <restiosondev@gmail.com>"]
+
+[dependencies]
